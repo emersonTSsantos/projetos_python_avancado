@@ -24,10 +24,13 @@ Este projeto é um web scraper para coletar detalhes dos filmes mais populares n
 ## Como Executar o Projeto
 
 1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/imdb-movie-scraper.git
+
+  git clone https://github.com/emersonTSsantos/projetos_python_avancado.git
    cd imdb-movie-scraper
 
 ## Autor
 
 Feito por Emerson Teixeira
+
+   
+
